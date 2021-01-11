@@ -2,3 +2,9 @@
     background-color: #fceae8;
 
 }
+.remove-border{
+    border: none;
+}
+.noback{
+    background-color: white;
+}
